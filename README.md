@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WeiqiZhang1999
+- 👀 I’m interested in anime, games.
+- 🌱 I’m currently learning algorithm, machine learning.
